@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/highcharts-graphs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/highcharts-graphs/static/js/main.d84dbe20.chunk.js",
+    "main.js.map": "/highcharts-graphs/static/js/main.d84dbe20.chunk.js.map",
+    "runtime-main.js": "/highcharts-graphs/static/js/runtime-main.3b2703c5.js",
+    "runtime-main.js.map": "/highcharts-graphs/static/js/runtime-main.3b2703c5.js.map",
+    "static/css/2.9f4e3c6f.chunk.css": "/highcharts-graphs/static/css/2.9f4e3c6f.chunk.css",
+    "static/js/2.7b8bd523.chunk.js": "/highcharts-graphs/static/js/2.7b8bd523.chunk.js",
+    "static/js/2.7b8bd523.chunk.js.map": "/highcharts-graphs/static/js/2.7b8bd523.chunk.js.map",
+    "index.html": "/highcharts-graphs/index.html",
+    "precache-manifest.72eabd79c17a5bb133a77161ede8c020.js": "/highcharts-graphs/precache-manifest.72eabd79c17a5bb133a77161ede8c020.js",
+    "service-worker.js": "/highcharts-graphs/service-worker.js",
+    "static/css/2.9f4e3c6f.chunk.css.map": "/highcharts-graphs/static/css/2.9f4e3c6f.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/highcharts-graphs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7b8bd523.chunk.js.LICENSE.txt": "/highcharts-graphs/static/js/2.7b8bd523.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b2703c5.js",
+    "static/css/2.9f4e3c6f.chunk.css",
+    "static/js/2.7b8bd523.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d84dbe20.chunk.js"
+  ]
+}
